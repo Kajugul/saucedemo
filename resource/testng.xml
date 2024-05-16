@@ -4,7 +4,7 @@
 
     <test name="test level">
         <classes>
-            <class name="saurceDemo.sauceDemoTestCaseList"/>
+            <class name="saurceDemo.SampleGitHubActions"/>
         </classes>
     </test>
 </suite>
