@@ -1,1 +1,1 @@
-demo application of saucedemo.com for practise purpose.
+demo application of saucedemo.com for practice purpose.
