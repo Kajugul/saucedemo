@@ -24,6 +24,7 @@ public class sauceDemoTestCaseList
     @Test
     public void test_01_login()
     {
+        // login flow
         Login login = new Login(driver);
         login.enterUserName();
         login.enterPassword();
