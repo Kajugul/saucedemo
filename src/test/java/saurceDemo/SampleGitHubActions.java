@@ -7,7 +7,6 @@ public class SampleGitHubActions
     @Test
     public void test()
     {
-
         System.out.println("Hi test");
     }
 }
